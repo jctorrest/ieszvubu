@@ -3,7 +3,7 @@
 /**
  * Script que muestra los números primos entre dos números dados por el usuario.
  * añado una nueva linea
- * 
+ * y yo pongo otra linea nueva
  * PHP version 8.1
  * 
  * @category Math
