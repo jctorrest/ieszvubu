@@ -2,6 +2,7 @@
 <?php
 /**
  * Script que muestra los números primos entre dos números dados por el usuario.
+ * añado una nueva linea
  * 
  * PHP version 8.1
  * 
